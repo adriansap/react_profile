@@ -26,11 +26,11 @@ function Portfolio() {
                 <div class="col-md-12">
                 </div>
             </div>
-
+           
             <div class="row">
                 <div class="col-md-4">
                     <a href="https://adriansap.github.io/PasswordGenerator/">
-                        <img src="../assets/password-gen-pic.PNG" width="150px" height="150px" class="rounded float-left" alt="..." />
+                        <img src={process.env.PUBLIC_URL + '/password-gen-pic.PNG'} width="150px" height="150px" class="rounded float-left" alt="..." />
                     </a>
                 </div>
                 <div class="col-md-4">
