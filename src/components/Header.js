@@ -16,7 +16,7 @@ function Header() {
                 <div class="navbar-nav">
                     <a class="nav-item nav-link active" href="/">About <span class="sr-only">(current)</span></a>
                     <a class="nav-item nav-link" href="/Portfolio">Portfolio</a>
-                    <a class="nav-item nav-link" href="#">Contact</a>
+                    <a class="nav-item nav-link" href="/Contact">Contact</a>
                     <a class="nav-item nav-link disabled" href="#">Disabled</a>
                 </div>
             </div>

@@ -18,7 +18,10 @@ function Portfolio() {
                 <div class="col-md-3">
                     <div id="aboutme">Portfolio</div>
                 </div>
+
             </div>
+            <hr></hr>
+
             <div class="row">
                 <div class="col-md-12">
                 </div>
