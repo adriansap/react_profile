@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import { Redirect } from 'react-router-dom'
 import { Link } from "react-router-dom";
 import Header from "./Header"
+import Footer from "./Footer"
 
 
 
@@ -23,9 +24,10 @@ function Main() {
     // console.log("props.employees[0].image" + props.employees[0].image)
 
     return (
+        <div>
         <Header />
-        
-
+        <Footer />
+        </div>
             
        
     );

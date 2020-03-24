@@ -14,8 +14,8 @@ function Header() {
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href="#">About <span class="sr-only">(current)</span></a>
-                    <a class="nav-item nav-link" href="#">Portfolio</a>
+                    <a class="nav-item nav-link active" href="/">About <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="/Portfolio">Portfolio</a>
                     <a class="nav-item nav-link" href="#">Contact</a>
                     <a class="nav-item nav-link disabled" href="#">Disabled</a>
                 </div>
