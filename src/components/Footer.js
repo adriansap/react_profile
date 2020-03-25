@@ -4,10 +4,12 @@ import React from 'react';
 function Footer() {
  
         let styles = {
-            position: 'absolute',
+            position: 'fixed',
             bottom: 0,
             width: '100%',
             height: '60px',
+            backgroundColor: 'lightgrey',
+            color:'white',
         };
 
     return (
